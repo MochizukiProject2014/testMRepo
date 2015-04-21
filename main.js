@@ -12,8 +12,7 @@ var encodeTime;
 var consoleStatus = "";
 var doTheMainfunction =0;
 var htmlversion;
-var syntaxErrorFlag = true;
-var codeFinishFlag = false;
+var syntaxErrorFlag = true,codeFinishFlag = false;
 var returnflag=true;
 var scanf_flag=false;			//
 var syntaxStr ="";				//エラー文の保存用配列
